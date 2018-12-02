@@ -1,0 +1,33 @@
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\bin\Debug\netcoreapp2.1\Csharp.deps.json
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\bin\Debug\netcoreapp2.1\Csharp.runtimeconfig.json
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\bin\Debug\netcoreapp2.1\Csharp.runtimeconfig.dev.json
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\bin\Debug\netcoreapp2.1\Csharp.dll
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\bin\Debug\netcoreapp2.1\Csharp.pdb
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\obj\Debug\netcoreapp2.1\Csharp.csprojAssemblyReference.cache
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\obj\Debug\netcoreapp2.1\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfoInputs.cache
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfo.cs
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\obj\Debug\netcoreapp2.1\Csharp.dll
+C:\Users\Teacher\Documents\c# all tutorials\Csharp\obj\Debug\netcoreapp2.1\Csharp.pdb
+E:\Csharp\bin\Debug\netcoreapp2.1\Csharp.deps.json
+E:\Csharp\bin\Debug\netcoreapp2.1\Csharp.runtimeconfig.json
+E:\Csharp\bin\Debug\netcoreapp2.1\Csharp.runtimeconfig.dev.json
+E:\Csharp\bin\Debug\netcoreapp2.1\Csharp.dll
+E:\Csharp\bin\Debug\netcoreapp2.1\Csharp.pdb
+E:\Csharp\obj\Debug\netcoreapp2.1\Csharp.csprojAssemblyReference.cache
+E:\Csharp\obj\Debug\netcoreapp2.1\Csharp.csproj.CoreCompileInputs.cache
+E:\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfoInputs.cache
+E:\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfo.cs
+E:\Csharp\obj\Debug\netcoreapp2.1\Csharp.dll
+E:\Csharp\obj\Debug\netcoreapp2.1\Csharp.pdb
+C:\Users\Student\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.deps.json
+C:\Users\Student\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.runtimeconfig.json
+C:\Users\Student\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.dll
+C:\Users\Student\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.pdb
+C:\Users\Student\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfo.cs
+C:\Users\Student\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.dll
+C:\Users\Student\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.pdb
